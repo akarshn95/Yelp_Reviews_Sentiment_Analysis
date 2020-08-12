@@ -7,7 +7,7 @@ Performed Sentiment Analysis using different ML models on over 1.1 million revie
 <img src="pics/Review_Length.png" height=40% width=40%>
 
 #### Review Length for Different Stars 
-<img src="pics/Stars_Dist.png" height=40% width=40%>
+<img src="pics/Stars_Dist.png" height=66% width=100%>
 
 #### Boxplot of Review Length for each Star
 <img src="pics/Boxplot.png" height=40% width=40%>
@@ -30,4 +30,4 @@ Performed Sentiment Analysis using different ML models on over 1.1 million revie
 
 #### Logistic Regression Model
 ##### Achieved a maximum accuracy of 94.41%
-<img src="pics/Logistic_Regression.png" height=40% width=40%>
+<img src="pics/LogReg.png" height=40% width=40%>
