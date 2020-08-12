@@ -26,10 +26,8 @@ Performed Sentiment Analysis using different ML models on over 1.1 million revie
 
 #### Naive Bayes Model
 ##### Achieved a maximum accuracy of 90.12%
-Confusion Matrix
 <img src="pics/Naive-Bayes.png" height=40% width=40%>
 
 #### Logistic Regression Model
 ##### Achieved a maximum accuracy of 94.41%
-Confusion Matrix
 <img src="pics/LogReg.png" height=40% width=40%>
